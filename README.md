@@ -1,2 +1,2 @@
 # currency-wars-r1
-A simplier clone of Honkai StarRail's mini game Currency Wars that uses Reinforced Learning to win the game 
+A clone of auto chess based on Honkai StarRail's gamemode currency wars
